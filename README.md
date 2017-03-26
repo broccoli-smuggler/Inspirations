@@ -4,6 +4,7 @@
 ## General
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
 * http://www.paulgraham.com/ - Various, start-up and other nerd
+* https://news.ycombinator.com/ - Various, reddit style, programming orientated
 
 ## Coding
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
