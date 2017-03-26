@@ -1,5 +1,16 @@
 # Inspirations
 
-## Websites
 
-http://colormind.io/ - Colour palete generation
+## General
+* http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
+* http://www.paulgraham.com/ - Various, start-up and other nerd
+
+## Coding
+* http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
+
+## Machine learning
+* http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - Model stacking
+
+
+## Other
+* http://colormind.io/ - Colour palete generation
