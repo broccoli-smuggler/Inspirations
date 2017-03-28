@@ -7,6 +7,7 @@
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
 
 ## Coding
+### Python
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
 
 ### LISP
