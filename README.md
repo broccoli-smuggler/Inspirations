@@ -8,6 +8,7 @@
 
 ## Coding
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
+* http://cs.gmu.edu/~sean/lisp/LispTutorial.html - Quick lisp guide
 
 ## Machine learning
 * http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - Model stacking
