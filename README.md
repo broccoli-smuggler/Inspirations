@@ -22,6 +22,7 @@
 * http://iamtrask.github.io/2015/07/12/basic-python-network/ - Basic neural network in python
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/ - MIT course
 * https://harishnarayanan.org/writing/artistic-style-transfer/ - Neural nets (conv) for image style processing
+* http://sebastianruder.com/optimizing-gradient-descent/ - Gradiant descent overview
 
 
 ## Other
