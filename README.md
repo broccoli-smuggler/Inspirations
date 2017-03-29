@@ -1,5 +1,7 @@
 # Inspirations
 
+## Video 
+* https://www.youtube.com/watch?v=gTAghAJcO1o - The future, thinking long Alan Kay
 
 ## General
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
