@@ -11,6 +11,7 @@
 ## Coding
 ### Python
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
+* https://github.com/donnemartin/interactive-coding-challenges - Coding challenges in snake
 
 ### LISP
 * http://cs.gmu.edu/~sean/lisp/LispTutorial.html - Quick guide
