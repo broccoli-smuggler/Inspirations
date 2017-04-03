@@ -8,6 +8,11 @@
 * http://www.paulgraham.com/ - Various, start-up and other nerd
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
 
+## Web comics
+* http://existentialcomics.com/
+* https://xkcd.com/
+* http://www.smbc-comics.com/
+
 ## Coding
 ### Python
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
