@@ -29,6 +29,7 @@
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/ - MIT course
 * https://harishnarayanan.org/writing/artistic-style-transfer/ - Neural nets (conv) for image style processing
 * http://sebastianruder.com/optimizing-gradient-descent/ - Gradiant descent overview
+* http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ - Softmax overview and derivation
 
 
 ## Other
