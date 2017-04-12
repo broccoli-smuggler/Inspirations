@@ -1,5 +1,8 @@
 # Inspirations
 
+## Papers
+* https://arxiv.org/pdf/math/0411418.pdf - How real are real numbers, arguing for a discrete universe
+
 ## Video 
 * https://www.youtube.com/watch?v=gTAghAJcO1o - The future, thinking long Alan Kay
 
