@@ -5,6 +5,7 @@
 
 ## Video 
 * https://www.youtube.com/watch?v=gTAghAJcO1o - The future, thinking long Alan Kay
+* https://www.youtube.com/watch?v=-pb3z2w9gDg - Society of mind, first in a series of lectures by Marvin Minsky
 
 ## General
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
