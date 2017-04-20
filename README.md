@@ -1,5 +1,9 @@
 # Inspirations
 
+## Podcasts
+* http://exponent.fm/
+* https://www.thisamericanlife.org/podcast
+
 ## Papers
 * https://arxiv.org/pdf/math/0411418.pdf - How real are real numbers, arguing for a discrete universe
 
