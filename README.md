@@ -21,6 +21,9 @@
 * https://xkcd.com/
 * http://www.smbc-comics.com/
 
+## AI
+* https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62 - Why super ai isn't going to happen
+
 ## Coding
 ### Python
 * http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Numpy for life
