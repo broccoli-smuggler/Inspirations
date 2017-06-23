@@ -41,7 +41,7 @@
 * https://harishnarayanan.org/writing/artistic-style-transfer/ - Neural nets (conv) for image style processing
 * http://sebastianruder.com/optimizing-gradient-descent/ - Gradiant descent overview
 * http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ - Softmax overview and derivation
-
+* https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details - AI book
 
 ## Other
 * http://colormind.io/ - Colour palete generation
