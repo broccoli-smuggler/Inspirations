@@ -33,6 +33,7 @@
 * http://cs.gmu.edu/~sean/lisp/LispTutorial.html - Quick guide
 * http://articulate-lisp.com/ - Setting up development projects
 * https://github.com/roswell/roswell - LISP installer
+* https://lispcookbook.github.io/cl-cookbook/ - Cookbook
 
 ## Machine learning
 * http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - Model stacking
