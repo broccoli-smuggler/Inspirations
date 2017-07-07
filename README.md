@@ -15,6 +15,7 @@
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
 * http://www.paulgraham.com/ - Various, start-up and other nerd
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
+* https://www.mumsgarage.com/new-zealand-startup-ecosystem-map/ - NZ start-ups
 
 ## Web comics
 * http://existentialcomics.com/
