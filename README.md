@@ -24,6 +24,7 @@
 
 ## AI
 * https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62 - Why super ai isn't going to happen
+* https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details - AI book
 
 ## Coding
 ### Python
@@ -43,7 +44,7 @@
 * https://harishnarayanan.org/writing/artistic-style-transfer/ - Neural nets (conv) for image style processing
 * http://sebastianruder.com/optimizing-gradient-descent/ - Gradiant descent overview
 * http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ - Softmax overview and derivation
-* https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details - AI book
+* https://blog.keras.io/the-limitations-of-deep-learning.html - limitations of deep learning
 
 ## Other
 * http://colormind.io/ - Colour palete generation
