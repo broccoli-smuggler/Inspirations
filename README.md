@@ -37,6 +37,9 @@
 * https://github.com/roswell/roswell - LISP installer
 * https://lispcookbook.github.io/cl-cookbook/ - Cookbook
 
+## Deep learning
+* http://mattmurray.net/building-a-music-recommender-with-deep-learning/ - Juno recommends with deep learning.
+
 ## Machine learning
 * http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - Model stacking
 * http://iamtrask.github.io/2015/07/12/basic-python-network/ - Basic neural network in python
