@@ -13,8 +13,11 @@
 
 ## General
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
-* http://www.paulgraham.com/ - Various, start-up and other nerd
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
+
+## Blogs
+* http://www.paulgraham.com/ - Various, start-up and other nerd
+* http://www.scottaaronson.com/blog/ - Maths
 * http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/ - Godel blog post
 
 ## Web comics
