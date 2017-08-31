@@ -19,7 +19,7 @@
 * http://www.paulgraham.com/ - Various, start-up and other nerd
 * http://www.scottaaronson.com/blog/ - Maths
 * http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/ - Godel blog post
-* https://xiph.org/~xiphmont/demo/neil-young.html - Sound and audio fidality
+* https://xiph.org/~xiphmont/demo/neil-young.html - Sound and audio fidelity
 
 ## Web comics
 * http://existentialcomics.com/
