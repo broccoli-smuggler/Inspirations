@@ -55,6 +55,7 @@
 * http://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/ - Softmax overview and derivation
 * https://blog.keras.io/the-limitations-of-deep-learning.html - limitations of deep learning
 * https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g2805724e72_0_0 - Machine learning cheat sheet cards
+* https://arxiv.org/pdf/1803.08834.pdf
 
 ## Other
 * http://colormind.io/ - Colour palete generation
