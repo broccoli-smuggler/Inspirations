@@ -22,6 +22,7 @@
 * https://meaningness.com/metablog - On thinking, meta
 * https://johncarlosbaez.wordpress.com/ - Maths and more
 * https://xiph.org/~xiphmont/demo/neil-young.html - Sound and audio fidelity
+* https://betanalpha.github.io/assets/case_studies/probability_theory.html - probability theroy
 
 ## Web comics
 * http://existentialcomics.com/
