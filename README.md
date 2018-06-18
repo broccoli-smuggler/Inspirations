@@ -14,6 +14,7 @@
 ## General
 * http://waitbutwhy.com/ - Humerous indepth discription of random topics (see AI for a scare)
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
+* https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf - JOobs interview resume ect.
 
 ## Blogs
 * http://www.paulgraham.com/ - Various, start-up and other nerd
