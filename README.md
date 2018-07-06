@@ -1,5 +1,7 @@
 # Inspirations
 
+https://tiddlywiki.com/#Quine
+
 ## Podcasts
 * http://exponent.fm/
 * https://www.thisamericanlife.org/podcast
