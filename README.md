@@ -1,6 +1,7 @@
 # Inspirations
 
 https://tiddlywiki.com/#Quine
+https://www.falstad.com/circuit/circuitjs.html - circuit simulator
 
 ## Podcasts
 * http://exponent.fm/
