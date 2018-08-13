@@ -2,6 +2,7 @@
 
 https://tiddlywiki.com/#Quine
 https://www.falstad.com/circuit/circuitjs.html - circuit simulator
+http://academictorrents.com/browse.php - acedemia
 
 ## Podcasts
 * http://exponent.fm/
