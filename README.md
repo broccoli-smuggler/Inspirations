@@ -66,6 +66,9 @@ http://academictorrents.com/browse.php - acedemia
 ## Deep learning 
 * https://arxiv.org/pdf/1803.08834.pdf - great summary
 
+## Music
+* http://guitardashboard.com/ - tunings
+
 ## Other
 * http://colormind.io/ - Colour palete generation
 * https://www.mumsgarage.com/new-zealand-startup-ecosystem-map/ - NZ start-ups
