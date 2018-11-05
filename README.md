@@ -4,6 +4,10 @@ https://tiddlywiki.com/#Quine
 https://www.falstad.com/circuit/circuitjs.html - circuit simulator
 http://academictorrents.com/browse.php - acedemia
 
+## Projects
+* http://vedder.se/2015/01/vesc-open-source-esc/ - motor controller
+* https://github.com/scanlime/fadecandy - LEDS
+
 ## Podcasts
 * http://exponent.fm/
 * https://www.thisamericanlife.org/podcast
