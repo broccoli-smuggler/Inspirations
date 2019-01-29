@@ -35,6 +35,7 @@ http://academictorrents.com/browse.php - acedemia
 * https://xiph.org/~xiphmont/demo/neil-young.html - Sound and audio fidelity
 * https://betanalpha.github.io/assets/case_studies/probability_theory.html - probability theroy
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/ - Nature of reality
+* http://blog.fogus.me/ - Alan Fogus computer scientist
 
 ## Web comics
 * http://existentialcomics.com/
