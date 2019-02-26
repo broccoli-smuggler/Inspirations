@@ -78,4 +78,5 @@ http://academictorrents.com/browse.php - acedemia
 
 ## Other
 * http://colormind.io/ - Colour palete generation
+* https://github.com/pi-hole/pi-hole - hardware ad blocking
 * https://www.mumsgarage.com/new-zealand-startup-ecosystem-map/ - NZ start-ups
