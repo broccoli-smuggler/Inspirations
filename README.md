@@ -76,6 +76,9 @@ http://academictorrents.com/browse.php - acedemia
 ## Music
 * http://guitardashboard.com/ - tunings
 
+## Embedded
+* https://jaycarlson.net/microcontrollers/#1508136887413-c1e94ebd-c312 - Cheap MCU's and ecosystems
+
 ## Other
 * http://colormind.io/ - Colour palete generation
 * https://github.com/pi-hole/pi-hole - hardware ad blocking
