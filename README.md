@@ -76,6 +76,7 @@ http://academictorrents.com/browse.php - acedemia
 ## Music
 * http://guitardashboard.com/ - tunings
 * https://towardsdatascience.com/neuralfunk-combining-deep-learning-with-sound-design-91935759d628
+* https://ccrma.stanford.edu/ - stanford course
 
 ## Embedded
 * https://jaycarlson.net/microcontrollers/#1508136887413-c1e94ebd-c312 - Cheap MCU's and ecosystems
