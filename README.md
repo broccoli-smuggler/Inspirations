@@ -75,6 +75,7 @@ http://academictorrents.com/browse.php - acedemia
 
 ## Music
 * http://guitardashboard.com/ - tunings
+* https://towardsdatascience.com/neuralfunk-combining-deep-learning-with-sound-design-91935759d628
 
 ## Embedded
 * https://jaycarlson.net/microcontrollers/#1508136887413-c1e94ebd-c312 - Cheap MCU's and ecosystems
@@ -83,3 +84,8 @@ http://academictorrents.com/browse.php - acedemia
 * http://colormind.io/ - Colour palete generation
 * https://github.com/pi-hole/pi-hole - hardware ad blocking
 * https://www.mumsgarage.com/new-zealand-startup-ecosystem-map/ - NZ start-ups
+
+## Jobs
+* https://www.jukedeck.com/
+
+
