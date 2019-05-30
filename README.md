@@ -25,6 +25,7 @@ http://academictorrents.com/browse.php - acedemia
 * https://news.ycombinator.com/ - Various, reddit style, programming orientated
 * https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf - JOobs interview resume ect.
 * https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/ - FREE COURSES
+* https://ourway.keybase.pub/mathematics_cheat_sheet.pdf - MATHS
 
 ## Blogs
 * http://www.paulgraham.com/ - Various, start-up and other nerd
