@@ -1,7 +1,6 @@
 # Inspirations
 
 https://tiddlywiki.com/#Quine
-https://www.falstad.com/circuit/circuitjs.html - circuit simulator
 http://academictorrents.com/browse.php - acedemia
 
 ## Projects
@@ -26,6 +25,7 @@ http://academictorrents.com/browse.php - acedemia
 * https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf - JOobs interview resume ect.
 * https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/ - FREE COURSES
 * https://ourway.keybase.pub/mathematics_cheat_sheet.pdf - MATHS
+* https://docs.racket-lang.org/pollen/ - pollen e book language
 
 ## Blogs
 * http://www.paulgraham.com/ - Various, start-up and other nerd
