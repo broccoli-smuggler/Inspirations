@@ -29,6 +29,7 @@ http://academictorrents.com/browse.php - acedemia
 
 ## Blogs
 * http://www.paulgraham.com/ - Various, start-up and other nerd
+* http://www.incompleteideas.net/ - Richard sutton, deep learning
 * http://www.scottaaronson.com/blog/ - Maths
 * http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/ - Godel blog post
 * https://meaningness.com/metablog - On thinking, meta
